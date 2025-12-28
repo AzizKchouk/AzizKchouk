@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Aziz Kchouk
 
-I’m a **Fullstack & DevOps engineer** passionate about building **interactive web applications**, **AI-powered platforms**, and **scalable cloud solutions**. I enjoy combining frontend, backend, and DevOps skills to deliver robust, performant, and user-friendly applications.
+I’m a **Fullstack & DevOps engineer** with a strong passion for building **interactive web applications**, **AI-powered platforms**, and **scalable cloud solutions**. I enjoy designing and developing software that combines **efficient backend services**, **responsive and intuitive frontends**, and **robust DevOps practices** to ensure high performance, reliability, and maintainability.
 
----
+I thrive on solving complex technical challenges, optimizing workflows, and integrating cutting-edge technologies to deliver seamless user experiences. Whether it’s creating **AI-driven features**, managing cloud infrastructure, or implementing **CI/CD pipelines**, I focus on writing clean, scalable, and sustainable code.
+
+I’m motivated by learning new technologies, collaborating with diverse teams, and contributing to projects that make a real impact.
+
 
 ## 🔧 Most Used Languages
 
@@ -17,7 +20,6 @@ I’m a **Fullstack & DevOps engineer** passionate about building **interactive 
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AzizKchouk&layout=compact&theme=radical" alt="Aziz Kchouk Top Languages">
   </a>
 </p>
----
 
 ## 🌐 Connect with Me
 
