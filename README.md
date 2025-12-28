@@ -6,8 +6,17 @@ I’m a **Fullstack & DevOps engineer** passionate about building **interactive 
 
 ## 🔧 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizKchouk&layout=compact&theme=radical&hide_border=true)](https://github.com/AzizKchouk)
+<p align="center">
+  <a href="https://github.com/AzizKchouk">
+    <img src="https://github-readme-stats.vercel.app/api?username=AzizKchouk&show_icons=true&theme=radical" alt="Aziz Kchouk GitHub Stats">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/AzizKchouk">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AzizKchouk&layout=compact&theme=radical" alt="Aziz Kchouk Top Languages">
+  </a>
+</p>
 ---
 
 ## 🌐 Connect with Me
