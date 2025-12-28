@@ -6,7 +6,7 @@ I’m a Fullstack & DevOps engineer passionate about building **interactive web 
 
 ## 🔧 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizKchouk&layout=compact&theme=radical)](https://github.com/AzizKchouk)
 
 ---
 
